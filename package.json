@@ -1,0 +1,7 @@
+{
+  "name": "supergemini-plugin",
+  "version": "1.0.0",
+  "keywords": ["gemini-plugin"],
+  "main": "index.js",
+  "type": "module"
+}
